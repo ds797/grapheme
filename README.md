@@ -1,3 +1,5 @@
+![grapheme banner](https://github.com/ds797/grapheme/blob/trunk/brand/grapheme-banner.png?raw=true)
+
 # grapheme
 
 ## Deploy high-performance edge functions in compiled languages like Rust, C, and Go.
